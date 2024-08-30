@@ -7,15 +7,15 @@ The data has 40 predictors, 20000 observations in the training set and 5000 in t
 The objective is to build several classification models and tune them. We are looking for the best one that will help identify failures so that the generators could be repaired before failing. 
 
 ##Skills Utilized:  
--Feature Engineering
+- Feature Engineering
 - Cross-Validation
 - Oversampling and Undersampling
-     - Machine Learning Pipeline
-     - Model Tuning and Performance
-     - Hyperparameter Tuning
-     - Grid Search
-     - Random Search
-     - AdaBoost
-     - Gradient Boost
-      Random Forest
-      XGBoost
+- Machine Learning Pipeline
+- Model Tuning and Performance
+- Hyperparameter Tuning
+- Grid Search
+- Random Search
+- AdaBoost
+- Gradient Boost
+- Random Forest
+- XGBoost
