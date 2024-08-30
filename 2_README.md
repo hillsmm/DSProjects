@@ -1,4 +1,4 @@
-## 2: Predicting Failing Sensors for windmill turbines.
+## 2: Predicting Failing Sensors for Windmill Turbines.
 
 ## Overview: 
 "ReneWind" is a company looking to improve their process flow involving the failure of wind turbines via sensors on the turbines. 
